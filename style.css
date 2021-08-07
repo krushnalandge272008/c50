@@ -1,0 +1,33 @@
+h1{
+    color: rgba(248, 91, 0, 0.719);
+}
+
+* {
+border: solid;
+}
+
+.header {
+    background-color: rgb(245, 230, 210);
+}
+
+.site-description {
+    display:flex;
+    flex-direction:column;
+    justify-content: first baseline;
+}
+
+.grid {
+    display:flex;
+   flex-wrap: wrap;
+   justify-content: space-evenly;
+
+}
+
+.footer{
+    display:flex;
+    justify-content: flex-end;
+    
+}
+p,h2{
+  text-align: center;      
+}
